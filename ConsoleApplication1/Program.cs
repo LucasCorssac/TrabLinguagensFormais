@@ -10,8 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello, World!\nPress Almost Any Key to Exit...");
-            System.Console.Read();
+            Console.WriteLine("Hello, World!\nPress Almost Any Key to Exit...");
+            Console.Read();
         }
     }
 }
