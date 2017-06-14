@@ -7,7 +7,7 @@ namespace ConsoleApplication1.Classes
 {
     class Variaveis
     {
-        String nome;//Nome da variavel
+        String nome;//Nome da variavel     
 
         List<string> Regras = new List<string>();//Contem todas as regras da variavel em questão
 
